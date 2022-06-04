@@ -1,0 +1,9 @@
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\bin\Debug\assignment4.exe.config
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\bin\Debug\assignment4.exe
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\bin\Debug\assignment4.pdb
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\obj\Debug\assignment4.csprojResolveAssemblyReference.cache
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\obj\Debug\assignment4.Form1.resources
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\obj\Debug\assignment4.Properties.Resources.resources
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\obj\Debug\assignment4.csproj.GenerateResource.Cache
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\obj\Debug\assignment4.exe
+C:\Users\halaf\Desktop\C#\assignment4\assignment4\assignment4\obj\Debug\assignment4.pdb
